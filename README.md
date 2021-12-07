@@ -13,8 +13,9 @@ Entretanto, não há validação para o número do dia e do mês, portanto o pro
 
 Visualize em: https://kleberjr.github.io/timer/
 
+##
 
-## ENGLISH VERSION
+## English Version
 Uses HTML5, CSS3 and JavaScript to implement a countdown.
 
 > Fill out the appropriate input field with the date and press the button 'Iniciar contagem'. The timer will start the countdown up to 00h00 of the date informed. The time left will be disposed as *days:hours:minutes:seconds*.
