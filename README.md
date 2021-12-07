@@ -13,7 +13,7 @@ Entretanto, não há validação para o número do dia e do mês, portanto o pro
 
 Visualize em: https://kleberjr.github.io/timer/
 
-##
+<br>
 
 ## English Version
 Uses HTML5, CSS3 and JavaScript to implement a countdown.
