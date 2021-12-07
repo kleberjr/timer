@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <main>
+        <form novalidate autocomplete="off">
+            <h1>Contador</h1>
+            <p>Informe uma data</p>
+            <input type="text" class="data" placeholder="DD/MM/AAAA" minlength="10" maxlength="10">
+            <button type="submit">Iniciar contagem</button>
+        </form>
+
+        <div id="timer-wrapper">
+            <div id="timer-controls">
+                <h2>Contador</h2>
+                <button id="reiniciar" type="submit">Reiniciar</button>
+            </div>
+
+            <div id="timer">
+                <h1>Faltam</h1>
+
+                <div id="timer-display">
+                    <div id="days">
+                        <span></span>
+                        <p>Dias</p>
+                    </div>
+                    
+                    <div id="hours">
+                        <span></span>
+                        <p>Horas</p>
+                    </div>
+                    
+                    <div id="minutes">
+                        <span></span>
+                        <p>Minutos</p>
+                    </div>
+                    
+                    <div id="seconds">
+                        <span></span>
+                        <p>Segundos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="main.js"></script>
+</body>
+</html>
