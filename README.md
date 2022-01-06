@@ -11,7 +11,8 @@ Há uma pequena validação no formato da data digitada, que não permite:
 
 Entretanto, não há validação para o número do dia e do mês, portanto o programa não funcionará como esperado caso a entrada seja 40/40/2021, por exemplo.
 
-Visualize em: https://kleberjr.github.io/timer/
+## Visualize o projeto
+https://kleberjr.github.io/timer/
 
 <br>
 
@@ -27,4 +28,5 @@ There is a little validation in the date formatting, which does NOT allow:
 
 However, there is NO validation for the number of day and month, so the application won't work as expected if the input is 40/40/2021, for example.
 
-Visualize in: https://kleberjr.github.io/timer/
+## Visualize the project
+https://kleberjr.github.io/timer/
